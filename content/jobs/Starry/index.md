@@ -2,7 +2,7 @@
 date: '2016-12-21'
 title: 'Embedded Software Engineer Intern'
 company: 'Stealth Mode Startup'
-location: 'Boston, MA'
+location: 'San Jose, CA'
 range: 'July - Dec 2016'
 url: 'https://starry.com/'
 ---
