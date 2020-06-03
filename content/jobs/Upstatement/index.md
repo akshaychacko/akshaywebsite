@@ -7,4 +7,4 @@ range: 'June 2020 - Present'
 url: 'https://umtri.umich.edu/'
 ---
 
-- More information will be available once my research terminates.
+- More information will be available once my research position terminates.
