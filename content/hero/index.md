@@ -1,8 +1,8 @@
 ---
 title: 'Hi, my name is'
 name: 'Akshay Chacko'
-subtitle: 'I build things for the web.'
+subtitle: 'I craft unique solutions to problems.'
 buttonText: 'Get In Touch'
 ---
 
-I'm a software engineer based in San Jose, CA specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.
+I'm a software engineer based in San Jose, CA specializing in building and designing applications, websites, and sounds.
