@@ -1,9 +1,9 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
+date: '2017-9-21'
+title: 'SpeedInfo LLC.'
 company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - Dec 2017'
+location: 'San Jose, CA'
+range: 'July - Sept 2017'
 url: 'https://www.apple.com/music/'
 ---
 
