@@ -4,9 +4,10 @@ title: 'Software Engineer Intern'
 company: 'Context 360, Inc.'
 location: 'Sunnyvale, CA'
 range: 'July - Dec 2016'
-url: 'https://starry.com/'
+url: 'https://context360.com/'
 ---
 
-- Engineered and maintained major features of Starry's customer-facing web app using ES6, Handlebars, Backbone, Marionette and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with Starry Station
-- Interfaced with user experience designers and other developers to ensure thoughtful and coherent user experiences across Starry’s iOS and Android mobile apps
+- Developed wireframe mockups to model user interfaces for future products.
+- Helped to create a mobile plugin to extend Context 360’s software compatibility to Unity Engine, a widely used development interface.
+- Set up a testing platform utilizing the Eclipse IDE to help evaluate competing products.  
+
