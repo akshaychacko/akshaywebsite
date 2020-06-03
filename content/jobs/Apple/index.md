@@ -1,13 +1,13 @@
 ---
 date: '2017-9-21'
-title: 'SpeedInfo LLC.'
-company: 'Apple'
+title: 'Software Engineering Intern'
+company: 'SpeedInfo'
 location: 'San Jose, CA'
 range: 'July - Sept 2017'
-url: 'https://www.apple.com/music/'
+url: 'https://www.speedinfo.com/'
 ---
 
-- Developed and shipped highly interactive web applications for Apple Music using Ember.js
-- Built and shipped the Apple Music Extension within Facebook Messenger leveraging third-party and internal APIs
-- Architected and implemented the front-end of Apple Music's embeddable web player widget, which lets users log in and listen to full songs in the browser
-- Contributed extensively to MusicKit.js, a JavaScript framework that allows developers to add an Apple Music player to their web apps
+- Developed a program with GUI to automate testing of sensors and to log results. Utilized C++ to send test commands from a management console and process responses from the sensor. Developed diagnostic tests for the sensor processor in Embedded C.
+- Improved data storage system by updating server-side PHP code to send a timestamp and sensor embedded C code to append it to all data saved on the network.
+- Manually performed field tests of sensors and compiled results. Analyzed the data for quality assurance purposes. 
+- Researched solutions for emissivity compensation in infrared traffic sensors.
