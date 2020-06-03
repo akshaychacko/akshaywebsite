@@ -1,8 +1,8 @@
 ---
 date: '2018-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
+title: 'Embedded Software Engineering Intern'
+company: 'Stealth Mode Startup'
+location: 'San Jose, CA'
 range: 'Jan - April 2018'
 url: 'https://web.northeastern.edu/scout/'
 ---
