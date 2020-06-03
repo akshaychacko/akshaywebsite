@@ -3,7 +3,7 @@ title: 'About Me'
 avatar: './me.jpg'
 skills:
   - C++
-  - HTML & (S)CSS
+  - C
   - Java
   - Vue
   - Node.js
