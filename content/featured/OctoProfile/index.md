@@ -1,13 +1,15 @@
 ---
 date: '3'
-title: 'OctoProfile'
+title: 'CountSensor Tester'
 cover: './octoprofile.png'
 github: 'https://github.com/bchiang7/octoprofile'
 external: 'https://octoprofile.now.sh'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - C++
+  - Embedded C
+  - VisualDSP
+  - TeraTerm
+  - COM/Serial Ports
 showInProjects: true
 ---
 
