@@ -1,10 +1,10 @@
 ---
-date: '2018-04-01'
+date: '2019-07-01'
 title: 'Embedded Software Engineering Intern'
 company: 'Stealth Mode Startup'
 location: 'San Jose, CA'
-range: 'Jan - April 2018'
-url: 'https://web.northeastern.edu/scout/'
+range: 'Jul 2019 -  Sept 2019'
+url: 'https://musicsynchro.org/'
 ---
 
 - Worked with a team of three designers to build a marketing website and e-commerce platform for [blistabloc](https://blistabloc.com), an ambitious startup originating from Northeastern
