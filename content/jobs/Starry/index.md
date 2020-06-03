@@ -1,8 +1,8 @@
 ---
 date: '2016-12-21'
-title: 'Embedded Software Engineer Intern'
-company: 'Stealth Mode Startup'
-location: 'San Jose, CA'
+title: 'Software Engineer Intern'
+company: 'Context 360, Inc.'
+location: 'Sunnyvale, CA'
 range: 'July - Dec 2016'
 url: 'https://starry.com/'
 ---
