@@ -1,9 +1,9 @@
 module.exports = {
   siteTitle: 'Akshay Chacko | Software Engineer',
   siteDescription:
-    'Brittany Chiang is a software engineer based in Boston, MA who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+    'Akshay Chacko is a software engineer based in San Jose, CA specializing in building and designing applications, websites, and sounds.',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
+    'Akshay Chacko, Akshay, Chacko, akshaychacko, software engineer, front-end engineer, web developer, javascript, umich',
   siteUrl: 'https://brittanychiang.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
@@ -25,14 +25,6 @@ module.exports = {
     {
       name: 'Codepen',
       url: 'https://codepen.io/bchiang7',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
     },
   ],
 
