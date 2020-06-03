@@ -1,11 +1,12 @@
 ---
-date: '2017-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'Jan - June 2017'
-url: 'https://web.northeastern.edu/scout/'
+date: '2016-08-01'
+title: 'Warehouse Technician'
+company: 'Tech to School Inc.'
+location: 'San Jose, CA'
+range: 'Jun - Aug 2016'
+url: 'https://www.techtoschool.com/'
 ---
 
-- Collaborated with a small team of student designers to spearhead a new brand and design system for Scout’s inaugural student-led design conference at Northeastern
-- Worked closely with designers and management team to develop, document, and manage the conference’s marketing website using Jekyll, Sass, and JavaScript
+- Received and inspected large shipments of iMacs, iPads, Macbooks, etc. in collaboration with the Repair and Auditing departments.
+- Refurbished and repackaged products and accessories by the hundreds, and prepared them for shipment to schools nationwide.
+- Invoiced and maintained inventory of all products shipped and received.
