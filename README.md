@@ -12,7 +12,7 @@
 </p>
 
 
-### TL;DR
+### 
 Original design credit: [brittanychiang.com](https://brittanychiang.com)
 
 
