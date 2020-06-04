@@ -13,9 +13,7 @@
 
 
 ### TL;DR
-
-Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
-
+Original design credit: [brittanychiang.com](https://brittanychiang.com)
 
 
 ## 🎨 Color Reference
