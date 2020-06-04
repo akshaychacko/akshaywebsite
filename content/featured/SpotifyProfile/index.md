@@ -6,7 +6,8 @@ github: 'https://github.com/akshaychacko/info201-final'
 external: 'https://akshayc.shinyapps.io/info201-final/'
 tech:
   - R
-  - Node.js
+  - Plotly
+  - Shinyapps
 showInProjects: true
 ---
 
