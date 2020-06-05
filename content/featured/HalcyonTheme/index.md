@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Corporate Website Design'
-cover: './halcyon.png'
+cover: './site2.png'
 external: 'https://www.musicsynchro.org//'
 tech:
   - HTML/CSS
