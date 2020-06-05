@@ -22,10 +22,6 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/akshaychacko',
     },
-    {
-      name: 'Soundcloud',
-      url: 'http://soundcloud.com.com/akshaychacko',
-    },
   ],
 
   navLinks: [
