@@ -4,7 +4,7 @@ module.exports = {
     'Akshay Chacko is a software engineer based in San Jose, CA specializing in building and designing applications, websites, and sounds.',
   siteKeywords:
     'Akshay Chacko, Akshay, Chacko, akshaychacko, software engineer, front-end engineer, web developer, javascript, umich',
-  siteUrl: 'https://akshaychacko.tk',
+  siteUrl: 'https://brittanychiang.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
