@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'CountSensor Tester'
-cover: './octoprofile.png'
+cover: './scneershot.PNG'
 github: 'https://github.com/bchiang7/octoprofile'
 external: 'https://octoprofile.now.sh'
 tech:
