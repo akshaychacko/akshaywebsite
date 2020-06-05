@@ -18,4 +18,4 @@ I have worked for multiple startups in the Bay Area over the last few years and 
 
 Outside of my academics, I am president of the Michigan Electronic Music Collective.
 
-Here are a few technologies I've been working with recently:
+My expertise lies in the areas of:
