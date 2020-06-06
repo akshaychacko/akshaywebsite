@@ -6,7 +6,7 @@ tech:
   - HTML/CSS
   - HostMonster
   - SquareSpace
-company: ''
+company: 'Stealth Mode Startup'
 showInProjects: true
 ---
 
