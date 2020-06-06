@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '2'
 title: 'NLP Lyrics Generator'
 cover: './nlpic.png'
 github: 'https://github.com/akshaychacko/NLP-LyricGenerator-AI'
