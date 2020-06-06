@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '1'
 title: 'Data Visualization'
 cover: './demo1.png'
 github: 'https://github.com/akshaychacko/info201-final'
