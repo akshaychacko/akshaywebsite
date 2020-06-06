@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'Data Visualization'
-cover: './demo.png'
+cover: './demo1.png'
 github: 'https://github.com/akshaychacko/info201-final'
 external: 'https://akshayc.shinyapps.io/info201-final/'
 tech:
