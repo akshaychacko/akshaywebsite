@@ -7,9 +7,9 @@ external: 'https://octoprofile.now.sh'
 tech:
   - C++
   - Embedded C
-  - VisualDSP
+  - VisualDSP++
   - TeraTerm
-  - COM/Serial Ports
+  - COM Ports
 showInProjects: true
 ---
 
