@@ -6,7 +6,7 @@ tech:
   - C++
   - Pairing Heaps
 company: 'Schoolwork'
-showInProjects: false
+showInProjects: true
 ---
 
 An implementation of a Priority Queue data structure in C++ using Pairing Heaps.
