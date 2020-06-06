@@ -1,13 +1,16 @@
 ---
 date: '3'
-title: 'Corporate Website Design'
-cover: './site2.png'
-external: 'https://www.musicsynchro.org//'
+title: 'Data Visualization'
+cover: './demo.png'
+github: 'https://github.com/akshaychacko/info201-final'
+external: 'https://akshayc.shinyapps.io/info201-final/'
 tech:
-  - HTML/CSS
-  - HostMonster
-  - SquareSpace
+  - R
+  - Plotly
+  - Shinyapps
 showInProjects: true
 ---
 
-During my time working for a Stealth Mode Startup, I singlehandedly designed and hosted the website for the company. I utilized SquareSpace to come up with a website design, and then modified the HTML/CSS code to fine-tune it. Afterwards, I used the online platform HostMonster, to host it on a custom domain.
+A web app for visualizing the concentrations of certain pollutants in the United States. Written in R, an input CSV file is turned into a visualization via the Plotly library, then hosted on a server using the Shinyapps environment. 
+
+This app is beneficial for environmental analysis because we can devise plans for improvement based off the pollutant's trends and causes.
