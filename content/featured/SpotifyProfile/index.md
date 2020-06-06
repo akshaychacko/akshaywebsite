@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'NLP Lyrics Generator'
-cover: './demo.png'
+cover: './nlpic.png'
 github: 'https://github.com/akshaychacko/NLP-LyricGenerator-AI'
 tech:
   - Python
