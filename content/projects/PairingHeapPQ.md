@@ -9,4 +9,6 @@ company: 'Schoolwork'
 showInProjects: false
 ---
 
-An implementation of a Priority Queue data structure using Pairing Heaps.
+An implementation of a Priority Queue data structure in C++ using Pairing Heaps.
+A node class is defined in order to develop this implementation.
+
