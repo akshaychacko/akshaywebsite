@@ -1,29 +1,65 @@
 import React from 'react';
 
 const IconLoader = () => (
-  <svg id="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-    <title>Loader Logo</title>
-    <g>
-      <g id="B" transform="translate(11.000000, 5.000000)">
-        <path
-          d="M45.691667,45.15 C48.591667,46.1 50.691667,48.95 50.691667,52.2 C50.691667,57.95 46.691667,61 40.291667,61 L28.541667,61 L28.541667,30.3 L39.291667,30.3 C45.691667,30.3 49.691667,33.15 49.691667,38.65 C49.691667,41.95 47.941667,44.35 45.691667,45.15 Z M33.591667,43.2 L39.241667,43.2 C42.791667,43.2 44.691667,41.85 44.691667,38.95 C44.691667,36.05 42.791667,34.8 39.241667,34.8 L33.591667,34.8 L33.591667,43.2 Z M33.591667,47.5 L33.591667,56.5 L40.191667,56.5 C43.691667,56.5 45.591667,54.75 45.591667,52 C45.591667,49.2 43.691667,47.5 40.191667,47.5 L33.591667,47.5 Z"
-          fill="currentColor"
-        />
-      </g>
-      <path
-        stroke="currentColor"
-        strokeWidth="5"
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        d="M 50, 5
-                  L 11, 27
-                  L 11, 72
-                  L 50, 95
-                  L 89, 73
-                  L 89, 28 z"
-      />
-    </g>
-  </svg>
+  <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 612 792" style="enable-background:new 0 0 612 792;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#0A192F;}
+	.st1{fill:#64FFDA;}
+</style>
+<image style="overflow:visible;" width="100" height="100" xlink:href="data:image/png;base64,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" transform="matrix(1 0 0 1 256 346)">
+</image>
+<polygon class="st0" points="288.64,375.4 288.64,415.23 321.15,415.23 322.17,375.4 "/>
+<g>
+	<g>
+		<path class="st1" d="M302.42,374.69h5.29l16.92,37.06h-8.97l-10.59-25.31l-10.59,25.31h-8.97L302.42,374.69z M293.62,399.08h23.27
+			v6.73h-23.27V399.08z"/>
+	</g>
+</g>
+</svg>
 );
 
 export default IconLoader;
