@@ -1,14 +1,13 @@
 ---
 date: '2020-01-10'
-title: 'Time to Have More Fun'
-github: 'https://github.com/bchiang7/time-to-have-more-fun'
-external: 'https://time-to-have-more-fun.now.sh/'
+title: 'Corporate Website Design'
+external: 'https://www.musicsynchro.org'
 tech:
-  - Next.js
-  - Tailwind CSS
-  - Firebase
+  - HTML/CSS
+  - HostMonster
+  - SquareSpace
 company: ''
 showInProjects: true
 ---
 
-A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS
+During my time working for a Stealth Mode Startup, I singlehandedly designed and hosted the website for the company. I utilized SquareSpace to come up with a website design, and then modified the HTML/CSS code to fine-tune it. Afterwards, I used the online platform HostMonster, to host it on a custom domain.
