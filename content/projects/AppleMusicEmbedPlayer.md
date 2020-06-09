@@ -1,11 +1,11 @@
 ---
 date: '2017-12-01'
-title: 'Apple Music Embeddable Web Player Widget'
+title: 'UPS Shipping Label Printer'
 github: ''
 external: 'https://tools.applemusic.com/en-us'
 tech:
-  - MusicKit.js
-  - JS
+  - HTML
+  - PHP
   - SCSS
 company: 'Apple'
 showInProjects: true
