@@ -2,6 +2,7 @@
 date: '2018-12-29'
 title: 'LinkedList & Stack'
 github: 'https://github.com/akshaychacko/LinkedList-Stack'
+company: 'Schoolwork'
 tech:
   - C++
 showInProjects: true
