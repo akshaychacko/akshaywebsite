@@ -1,14 +1,18 @@
 ---
 date: '2017-12-01'
-title: 'UPS Shipping Label Printer'
-github: ''
-external: 'https://tools.applemusic.com/en-us'
+title: 'USPS Shipping Label Printer'
+github: 'https://github.com/akshaychacko/USPSLabelGenerator'
+external: 'https://usps-labelprinter.000webhostapp.com/'
 tech:
-  - HTML
   - PHP
-  - SCSS
-company: 'Apple'
+  - HTML
+  - CSS
+  - EasyPost API
+company: 'Personal Project'
 showInProjects: true
 ---
 
-Embeddable web player widget for Apple Music that lets users log in and listen to full song playback in the browser leveraging [MusicKit.js](https://developer.apple.com/documentation/musickitjs). Read more about this project on [9to5Mac](https://9to5mac.com/2018/06/03/apple-music-embeddable-web-player-listen-browser/).
+A front-end USPS Shipping Label Generator written in PHP. The user specifies a shipping method and enters a mailing and return address, then generator communicates with the EasyPost API to create a shipping label. 
+Note that the PHP file contains all the HTML and CSS styling as well.
+
+
