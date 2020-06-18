@@ -1,5 +1,5 @@
 ---
-date: '2020-06-01'
+date: '2020-06-15'
 title: 'Research Assitant'
 company: 'UMTRI'
 location: 'Ann Arbor, MI'
