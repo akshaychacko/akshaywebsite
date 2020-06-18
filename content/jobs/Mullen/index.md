@@ -1,10 +1,10 @@
 ---
 date: '2020-6-1'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
+title: 'Coding Instructor'
+company: 'The Coding School'
 location: 'Boston, MA'
 range: 'July - Sept 2020'
-url: 'https://us.mullenlowe.com/'
+url: 'https://www.the-cs.org/'
 ---
 
 - Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
