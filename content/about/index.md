@@ -1,6 +1,6 @@
 ---
 title: 'About Me'
-avatar: './me.JPG'
+avatar: './IMG_8362.jpg'
 skills:
   - C++
   - C
