@@ -1,5 +1,5 @@
 ---
-date: '2020-6-1'
+date: '2020-06-01'
 title: 'Coding Instructor'
 company: 'The Coding School'
 location: 'Los Angeles, CA'
