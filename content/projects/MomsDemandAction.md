@@ -1,14 +1,12 @@
 ---
 date: '2020-08-12'
 title: 'Data Visualization Website'
-github: ''
-external: 'https://www.upstatement.com/work/moms-demand-action/'
-ios: 'https://apps.apple.com/us/app/demand-action/id1475502876'
-android: 'https://play.google.com/store/apps/details?id=com.momsdemandaction.app'
+github: 'https://github.com/akshaychacko/TwitterViz'
+external: 'https://twitterminerdataviz.netlify.app'
 tech:
-  - NativeScript Vue
+  - Python
   - iOS
   - Android
 company: 'UMTRI'
-showInProjects: false
+showInProjects: true
 ---
