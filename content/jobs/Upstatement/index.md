@@ -6,5 +6,8 @@ location: 'Ann Arbor, MI'
 range: 'June 2020 - Present'
 url: 'http://www.umtri.umich.edu/'
 ---
-- Conducted research for the UM Transportation Research Institute as part of the Human Factors and Emerging Technologies Lab.
-- More information will be available once my research position terminates.
+- Conducted research on autonomous vehicles for the University of Michigan Transportation Research Institute through the College of Engineering.
+- Developed Python software to mine data from Twitter accounts and format it for further processing.
+- Utilized multiple Natural Language Processing tools to perform sentiment analysis on the data.
+- Developed numerous interactive visualizations and analyzed data for trends.
+- Designed and hosted a website to compile and present findings to the UMTRI.
