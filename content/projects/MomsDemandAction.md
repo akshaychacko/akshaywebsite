@@ -5,8 +5,8 @@ github: 'https://github.com/akshaychacko/TwitterViz'
 external: 'https://twitterminerdataviz.netlify.app'
 tech:
   - Python
-  - iOS
-  - Android
+  - HTML/CSS
+  - Javascript
 company: 'UMTRI'
 showInProjects: true
 ---
