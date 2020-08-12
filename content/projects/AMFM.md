@@ -1,10 +1,10 @@
 ---
-date: '2017-11-01'
+date: '2019-11-01'
 title: 'Union-Find Data Structure'
 github: 'https://github.com/akshaychacko/Union-Find-Data-Structure'
 tech:
   - C++
-company: 'Apple'
+company: 'Coursework'
 showInProjects: true
 ---
 
