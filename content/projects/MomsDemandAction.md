@@ -1,14 +1,14 @@
 ---
-date: '2019-11-12'
-title: 'Moms Demand Action Mobile App'
+date: '2020-08-12'
+title: 'Data Visualization Website'
 github: ''
-external: 'https://www.upstatement.com/work/moms-demand-action/'
+external: 'https://twitterminerdataviz.netlify.app/'
 ios: 'https://apps.apple.com/us/app/demand-action/id1475502876'
 android: 'https://play.google.com/store/apps/details?id=com.momsdemandaction.app'
 tech:
-  - NativeScript Vue
-  - iOS
-  - Android
-company: 'Upstatement'
-showInProjects: false
+  - Python
+  - HTML/CSS
+  - Javascript
+company: 'UMTRI'
+showInProjects: true
 ---
