@@ -5,7 +5,7 @@ github: 'https://github.com/akshaychacko/Pairing-Heap-Priority-Queue'
 tech:
   - C++
   - Pairing Heaps
-company: 'Schoolwork'
+company: 'Coursework'
 showInProjects: true
 ---
 
