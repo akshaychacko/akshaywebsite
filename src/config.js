@@ -4,7 +4,7 @@ module.exports = {
     'Akshay Chacko is a software engineer based in San Jose, CA specializing in building and designing applications, websites, and sounds.',
   siteKeywords:
     'Akshay Chacko, Akshay, Chacko, akshaychacko, software engineer, front-end engineer, web developer, javascript, umich',
-  siteUrl: 'https://brittanychiang.com',
+  siteUrl: 'https://achacko.netlify.app/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
@@ -12,7 +12,7 @@ module.exports = {
   location: 'San Jose, CA',
   email: 'akshaychacko999@gmail.com',
   github: 'https://github.com/akshaychacko',
-  twitterHandle: '@bchiang7',
+  twitterHandle: '@akshayislame',
   socialMedia: [
     {
       name: 'GitHub',
